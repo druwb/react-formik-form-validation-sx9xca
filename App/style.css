@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+ box-sizing: border-box; }
+body{
+ font: normal 18px sans-serif;
+ color: #333;
+  background-color: #eee; }
+
+.container-fluid{
+  padding:0;
+   margin:0; }
+
+header{
+box-sizing: border-box;
+text-align: center;
+ width: 100%;
+   padding: 10px 30px;
+  background-color: #2ec4a5;
+  overflow: hidden; }
+
+header .limiter{
+   max-width: 850px;
+  margin: 0px auto; }
+
+header h3{
+ font: normal 24px/1.5 'Open Sans', sans-serif;
+float: left;
+  color: #fff;
+  margin:0; }
+/*no border-radious*/
+.creditCardForm {
+box-shadow:10px 10px #2ec4a5;
+  max-width: 700px;
+background-color: #fff;
+  margin: 100px auto;
+  overflow: hidden;
+   padding: 25px;
+  color: #4c4e56;
+}
