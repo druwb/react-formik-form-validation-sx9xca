@@ -1,4 +1,3 @@
-# react-formik-form-validation-sx9xca
-Created by druwb
+# qlreactform
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-formik-form-validation-sx9xca)
+Created by druwb
